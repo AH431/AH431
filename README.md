@@ -9,10 +9,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 目前正在開發 **XXX 專案**
+- 🔭 目前正在開發 **ERP 專案**
 - 🌱 正在學習 **Next.js / AI / Docker**
 - 💬 歡迎問我關於 **React, TypeScript, Python**
-- 📫 聯絡我：`your.email@example.com`
+- 📫 聯絡我：`email@example.com`
 
 ### 🛠️ Tech Stack
 
