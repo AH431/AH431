@@ -39,13 +39,8 @@
 ### 🌟 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AH431/AH431/main/profile-3d-contrib/profile-green-animate.svg" alt="GitHub 3D Contribution" width="80%" />
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AH431&color=2e7d32&style=for-the-badge&label=PROFILE%20VIEWS)
-
+  <img 
+    src="https://raw.githubusercontent.com/AH431/AH431/main/profile-3d-contrib/profile-night-green.svg" 
+    alt="GitHub 3D Contribution" 
+    width="82%" />
 </div>
