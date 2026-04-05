@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: #0d1117; padding: 40px 20px; border-radius: 15px;">
 
 # 👋 Hi there, I'm **Sunny**！
 
@@ -20,9 +20,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunny&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunny&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sunny&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sunny&theme=dracula&hide_border=true&background=0d1117)
 
 </div>
 
@@ -38,6 +38,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sunny&color=00bfff&style=for-the-badge&label=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Sunny&color=00bfff&style=for-the-badge&label=PROFILE%20VIEWS)
 
 </div>
