@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Hi there, I'm **AH431**！
+# 🌱 Hi there, I'm **AH431**！
 
 </div>
 
@@ -10,7 +10,7 @@
 - 🔨 目前正在開發 **ERP 專案**
 - 🌱 正在學習 **Next.js / AI / Docker**
 - 💬 歡迎問我關於 **React、TypeScript、Python**
-
+- 📫 聯絡我：`email@example.com`
 
 ### 🛠️ Tech Stack
 
@@ -22,9 +22,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AH431&show_icons=true&theme=gruvbox_light&hide_border=true&bg_color=f8f1e3,e8d5b8&title_color=2e7d32&text_color=3f2a1e&icon_color=4caf50)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AH431&show_icons=true&theme=graywhite&hide_border=true&bg_color=f5f5f5,f0f0f0&title_color=4ecdc4&text_color=2c3e50&icon_color=4ecdc4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AH431&layout=compact&theme=gruvbox_light&hide_border=true&bg_color=f8f1e3,e8d5b8&title_color=2e7d32&text_color=3f2a1e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AH431&layout=compact&theme=graywhite&hide_border=true&bg_color=f5f5f5,f0f0f0&title_color=4ecdc4&text_color=2c3e50)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AH431&theme=gruvbox_light&hide_border=true&background=f8f1e3&ring=4caf50&fire=2e7d32&currStreakNum=3f2a1e)
+![GitHub Streak](https://streak-stats.demolab.com?user=AH431&theme=graywhite&hide_border=true&background=f5f5f5&ring=4ecdc4&fire=4ecdc4&currStreakNum=2c3e50)
 
 </div>
 
@@ -40,6 +40,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AH431&color=4caf50&style=for-the-badge&label=PROFILE%20VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AH431&color=4ecdc4&style=for-the-badge&label=PROFILE%20VIEWS)
 
 </div>
