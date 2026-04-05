@@ -22,10 +22,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AH431&show_icons=true&theme=graywhite&hide_border=true&bg_color=f8f9fa,f1f3f5&title_color=2e7d32&text_color=2c3e50&icon_color=2e7d32)
+<img src="https://github-readme-stats.vercel.app/api?username=AH431&show_icons=true&theme=graywhite&hide_border=true&title_color=2e7d32&text_color=2c3e50&icon_color=2e7d32" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AH431&layout=compact&theme=graywhite&hide_border=true&bg_color=f8f9fa,f1f3f5&title_color=2e7d32&text_color=2c3e50)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AH431&layout=compact&theme=graywhite&hide_border=true&title_color=2e7d32&text_color=2c3e50" alt="Top Languages" />
 
+</div>
 </div>
 
 ### 🔥 Contribution & Streak
