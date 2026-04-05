@@ -36,11 +36,12 @@
 
 </div>
 
-### 🌟 3D Contribution Graph
+### 🌟 3D Contribution Graph (2026)
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/AH431/AH431/main/profile-3d-contrib/profile-night-green.svg" 
-    alt="GitHub 3D Contribution" 
-    width="82%" />
+    src="https://raw.githubusercontent.com/AH431/AH431/main/profile-3d-contrib/profile-green-animate.svg" 
+    alt="GitHub 3D Contribution Graph" 
+    width="85%" 
+    style="max-width: 900px;"/>
 </div>
